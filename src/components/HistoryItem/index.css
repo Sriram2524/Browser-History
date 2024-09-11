@@ -1,0 +1,40 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 50px;
+}
+.text-box {
+  display: flex;
+  flex-direction: row;
+}
+.logo-img {
+  width: 30px;
+  height: 30px;
+  align-self: center;
+  margin-right: 20px;
+}
+.title {
+  color: black;
+  margin-right: 10px;
+  font-family: roboto;
+  font-weight: bold;
+}
+.domain {
+  color: #475569;
+}
+.date-logo-text-con {
+  display: flex;
+  flex-direction: row;
+}
+.button{
+  background-color: transparent;
+  border-width: 0px;
+  border-color: white;
+}
